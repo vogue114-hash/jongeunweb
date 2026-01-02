@@ -1,0 +1,9 @@
+
+}
+.video{
+  width:100%;
+  max-width:420px;   /* ← 520이 크면 420 / 360으로 줄이기 */
+  height:220px;      /* ← 세로도 적당히 (200~240) */
+  border:1px solid #cfc7bd;
+  margin-top:14px;
+}
